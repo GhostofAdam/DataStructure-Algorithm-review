@@ -31,13 +31,6 @@ public:
 		p->next=end;
 		end->pred=p;
 	}
-	void insert(int v){
-		ListNode*p=new ListNode(v);
-		end->pred->next=p;
-		p->pred=end->pred;
-		p->next=end;
-		end->pred=p;
-	}
 	void del(ListNode* n){
 		n->pred->next=n->next;
 		n->next->pred=n->pred;
