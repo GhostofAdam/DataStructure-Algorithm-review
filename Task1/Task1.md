@@ -51,6 +51,8 @@ public:
 
 #### 链表
 
+MyList.h
+
 邓公建议的头尾哨兵,的确有简化代码的功能,逻辑也更清晰了
 
 找环的题,突然发现在我做之前就在各种博客,公众号的推送上看过了...似乎是用两个不同速度的指针
@@ -60,6 +62,8 @@ Merge k Sorted Lists 用堆的话,复杂度应该可以优化...自己写的MyLi
 push和pop都是O(logn)的话,总体应该是O(nlogn)
 
 #### hash
+
+TwoSum.h HappyNumber.h
 
 原来STL里unsorted_map是hash实现...
 
