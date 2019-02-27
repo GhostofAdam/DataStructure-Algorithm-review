@@ -6,7 +6,7 @@
 
 手写了一遍双向链表熟练一下 MyList.h
 
-结合复习刷了几道LeetCode(TwoSum.h,MajorityElementII.h,HappyNumber.h,FirstMissingPositive.h)
+结合复习刷了几道LeetCode(TwoSum.h,MajorityElementII.h,HappyNumber.h,FirstMissingPositive.h,Merge_k_Sorted_Lists.h)
 
 (之前只刷过学校的OJ，STL都不让用的...，leetcode突然好不习惯，STL很多知识也不熟练) 
 
