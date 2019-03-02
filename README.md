@@ -5,3 +5,5 @@
 在此复习一下DSA，再把教程和习题集好好看看，leetcode刷刷题练习一下。
 
 * 2019.2.27 update Task1
+
+* 2019.3.2 update Task2
