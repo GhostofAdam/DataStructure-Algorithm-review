@@ -51,11 +51,6 @@ class circularQueue{
 	}
 	
 }
-struct node{
-	int v;
-	struct node* next;
-	node(n):v(n),next(nullptr){}
-}
 //链式栈
 class chainStack{
 	
