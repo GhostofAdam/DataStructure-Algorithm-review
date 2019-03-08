@@ -1,4 +1,5 @@
 class Solution{
+public:
 	void merge(vector<int>&a,int lo,int mid,int hi){
 		vector<int>tmp(a.begin()+lo,a.begin()+hi);
 		int i=0,j=mid-lo,k=0;
